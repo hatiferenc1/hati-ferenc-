@@ -1,0 +1,1 @@
+print('szeretem a tejet de a pilóta kekszet a legjobban fiaim ')
